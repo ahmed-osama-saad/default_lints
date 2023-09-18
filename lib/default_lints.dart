@@ -1,3 +1,3 @@
-int calculate() {
-  return 6 * 7;
-}
+library default_lints;
+
+export 'package:default_lints/analysis_options.yaml';
