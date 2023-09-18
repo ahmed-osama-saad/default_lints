@@ -1,7 +1,7 @@
 name: default_lints
 description: A sample command-line application.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/ahmed-osama-saad/default_lints.git
 
 environment:
   sdk: ^3.0.6
